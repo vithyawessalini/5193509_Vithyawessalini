@@ -14,3 +14,5 @@
 ### **Git Basics - CodeSignal Certification**
 <img width="1903" height="815" alt="Git Basics_CodeSignal" src="https://github.com/user-attachments/assets/67850cc6-81ab-4f3a-a632-732c07414c32" />
 
+---
+
