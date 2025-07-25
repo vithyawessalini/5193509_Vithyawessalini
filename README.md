@@ -1,13 +1,18 @@
 # 5193509_Vithyawessalini
-***WEEK - 1***
-**Agile for Beginners - Great Learning Certification**
+## ***WEEK - 1***
+
+### **Agile for Beginners - Great Learning Certification**
 <img width="1903" height="815" alt="Agile for Beginners_GreatLearning" src="https://github.com/user-attachments/assets/6c41a878-1add-4e13-99a6-bb261d2d8850" />
 
 ---
 
-***WEEK - 2***
-**Git training - simplilearn Certification**
+## ***WEEK - 2***
+
+### **Git training - simplilearn Certification**
 <img width="1903" height="815" alt="Git training_simplilearn" src="https://github.com/user-attachments/assets/611d469d-8a10-4dd6-be95-918231061bb1" />
 
-**Git Basics - CodeSignal Certification**
+### **Git Basics - CodeSignal Certification**
 <img width="1903" height="815" alt="Git Basics_CodeSignal" src="https://github.com/user-attachments/assets/67850cc6-81ab-4f3a-a632-732c07414c32" />
+
+---
+
