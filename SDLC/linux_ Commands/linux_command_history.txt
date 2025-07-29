@@ -1,0 +1,175 @@
+    1  sudo apt update
+    2  sudo apt install gcc
+    3  date
+    4  bc
+    5  clear
+    6  echo $SHELL
+    7  printenv SHELL
+    8  whoami
+    9  whatis echo
+   10  whatis printenv
+   11  cat
+   12  what is cat
+   13  whatis cat
+   14  whereis cat
+   15  whereis gcc
+   16  info cat
+   17  sudo apt upgrade
+   18  clear
+   19  sudo apt install build-essential
+   20  date
+   21  date "+%D"
+   22  date "+%D %T"
+   23  date "%y-%m-%d"
+   24  date "+%y-%m-%d"
+   25  date "+%y/%m/%d"
+   26  date "+%A %B %d %y %T"
+   27  date --date "tomorrow"
+   28  date --date "1 year ago"
+   29  man date
+   30  cal
+   31  sudo apt install ncal
+   32  cal
+   33  cal 5 2025
+   34  cal 2025
+   35  cal -3
+   36  ps
+   37  bc
+   38  bc <<<"12/5"
+   39  uname -i
+   40  uname -n
+   41  uname -a
+   42  echo "Welcome to Linux"
+   43  echo `date`
+   44  printf"My shell is %s\n"$SHELL
+   45  printf "Linux training"
+   46  printf "My shell is %s\n"$SHELL
+   47  seq 1 10
+   48  sed -s " " 10
+   49  sed -s" " 10
+   50  sed -s " " 10
+   51  ses -s " " 10
+   52  seq -s " " 10
+   53  seq -s " " 5 2 50
+   54  rev <<< linux
+   55  echo$?
+   56  echo $?
+   57  false
+   58  echo $?
+   59  ls
+   60  nano newfile
+   61  cd new
+   62  mkdir new
+   63  cd new
+   64  mkdir first second 
+   65  ls
+   66  cd
+   67  cd -
+   68  mkdir -p d1/d2
+   69  ls
+   70  cd d1
+   71  ls
+   72  ls-1
+   73  ls-l
+   74  ls -l
+   75  cd ..
+   76  cd
+   77  ls -l
+   78  ls -a
+   79  sudo
+   80  cd /mnt/c/Users/visnu/
+   81  nano demo
+   82  wc demo
+   83  cat newfile.txt
+   84  cd new
+   85  cat newfile.txt
+   86  cd ..
+   87  touch newfile.txt
+   88  nano newfile.txe
+   89  cat newfile.txt
+   90  cat newfile.txt > output.txt
+   91  cat output.txt
+   92  cat -n demo
+   93  cat -n newfile
+   94  cat -n newfile.txt
+   95  ls
+   96  mkdir training
+   97  cp newfile output.txt training
+   98  cd training
+   99  ls
+  100  cd
+  101  ls
+  102  ls -R
+  103  cp -r new training
+  104  ls
+  105  cd training
+  106  cd /mnt/c/Users/visnu/
+  107  ls
+  108  cd training
+  109  cp -r new training
+  110  cd new
+  111  mv output.txt out
+  112  ls
+  113  mv out training
+  114  ls
+  115  cd training
+  116  cd new
+  117  cd ..
+  118  ls
+  119  mkdir new
+  120  ls
+  121  cd new
+  122  mkdir stepin
+  123  cd stepin
+  124  mkdir sdlc git linux
+  125  ls
+  126  cd sdlc
+  127  mkdir -p models/agile
+  128  ls
+  129  cd models
+  130  ls
+  131  cd
+  132  ls
+  133  ls -l
+  134  ls -a
+  135  ls -R
+  136  cd stepin
+  137  cd /mnt/c/Users/visnu/new/
+  138  cd stepin
+  139  ls -R
+  140  cd agile
+  141  cd sdlc
+  142  cd models
+  143  cd agile
+  144  nano cicd
+  145  wc cicd
+  146  wc this is day 2 of the training
+  147  wc
+  148  touch newfile.txt
+  149  ls
+  150  cat cicd
+  151  cat cicd > new.txt
+  152  cat new.txt
+  153  cat -n cicd
+  154  tac cicd
+  155  cd ..
+  156  ls
+  157  mv newfile git
+  158  touch newfile
+  159  mv newfile git
+  160  ls
+  161  cd git
+  162  ls
+  163  cd ..
+  164  mkdir Day2
+  165  mv newfile Day2
+  166  rm n*
+  167  rmdir
+  168  rmdir new
+  169  cd new
+  170  mkdir new
+  171  rmdir new
+  172  cd new
+  173  ls
+  174  history
+  175  history > linux_command_history.txt
